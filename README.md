@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/larssont/Koala52">
+  <a href="https://github.com/larssont/Koala52#gh-dark-mode-only">
     <img src="assets/svg/koala.svg" alt="Koala Logo" width="160">
   </a>
 
