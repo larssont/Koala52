@@ -17,12 +17,12 @@
 
 - 52 keys, 3 key thumb cluster
 - Aggressive column stagger
-- Supports Gateron low profile hot-swap sockets
+- Gateron low profile (GLP) hot-swap sockets
 - Low profile tray case
 - Piezo speakers
 - SMD mounted Supermini RP2040s
 - USB Mini-B interconnect
-- Inset for [3M SJ5382](https://www.3m.com/3M/en_US/p/d/b5005035200/) bumpons
+- Insets for [3M SJ5382](https://www.3m.com/3M/en_US/p/d/b5005035200/) bumpons
 - Inset for metal plate for MagSafe compatibility
 
 ## Background
@@ -37,6 +37,14 @@ Contrary to many newer smaller split ergo keyboards, I decided to retain the fou
 I've also decided to forego the common OLED screen, instead opting to have a dedicated piezo speaker on each half. I made this choice since, based on my experience, the screen provides little value to a typist that normally doesn't look at their keyboard (not to mention that most screens tend to be far too small, nor do they function well with heavy tenting). They can however be visually pleasing, but my priority was a pragmatic design first and foremost.
 
 I decided that I also needed a good tenting solution, which is why I added an inset at the bottom of the case where a ferrous metal plate can go, which in turn makes it MagSafe compatible. I considered other tenting solutions as well, but settled in the end on the MagSafe compatibility, since it combines versatility and simplicity. You aren't forced into using a tenting solution, and it can easily be adjusted based on your individual needs.
+
+## Acknowledgements
+
+- Sandra at [The Noun Project](https://thenounproject.com/icon/koala-4724513/) for the koala icon which is used as the logo of this project.
+- [Ergogen](https://github.com/ergogen/ergogen), the keybard generator which this project is built with
+- [CLP Keycaps](https://github.com/vvhg1/clp-keycaps), contoured low profile MX keycaps
+- Idan at [holykeebs](https://holykeebs.com/) for advising on the Supermini RP2040
+- Peter at [unicorncables](https://unicorncables.com/) for advicing on and crafting a custom USB Mini-B interconnect cable
 
 ## License
 
