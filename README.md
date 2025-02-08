@@ -13,20 +13,30 @@
   </p>
 </p>
 
+## Features
+
+- 52 keys, 3 key thumb cluster
+- Aggressive column stagger
+- Supports Gateron low profile hot-swap sockets
+- Low profile tray case
+- Piezo speakers
+- SMD mounted Supermini RP2040s
+- USB Mini-B interconnect
+- Inset for [3M SJ5382](https://www.3m.com/3M/en_US/p/d/b5005035200/) bumpons
+- Inset for metal plate for MagSafe compatibility
+
 ## Background
 Koala52 was designed to be a versatile yet simple keyboard.
 
-Before designing Koala52, I was using the [Lily58](https://github.com/kata0510/Lily58) and the [Allium58](https://github.com/beekeeb/Allium58) for several years. They are excellent keyboards in their own regards, but I felt like I wanted to make some changes to make a keyboard that was more suitable for me. Most importantly, I wanted a smaller thumb cluster that felt comfortable for my thumbs. I wanted a thumb cluster that went slightly further outwards, without having to rely on either tucking or stretching my thumbs extensively. On top of that, I wanted much more aggressive colum staggering which matched my own fingers lengths better.
+Before designing Koala52, I was using the [Lily58](https://github.com/kata0510/Lily58) and the [Allium58](https://github.com/beekeeb/Allium58) for several years. They were excellent keyboards in their own regards, but I felt like I wanted to introduce some changes to make a keyboard that was more suitable for me. Most importantly, I wanted a smaller thumb cluster that felt comfortable for my thumbs. I wanted a thumb cluster that went slightly further outwards, without having to rely on either tucking or stretching my thumbs extensively. Moreover, I wanted much more aggressive column staggering, which matched my finger lengths better.
 
-Inspiration was derived from a variety of keyboards, most notably the [IK Keyboard](https://github.com/ianmaclarty/ik) which features a similar layout but with less pronounced stagger.
+Inspiration was derived from various keyboards, most notably the [IK Keyboard](https://github.com/ianmaclarty/ik) which features a similar layout but with less pronounced stagger.
 
-As opposed to many newer smaller split ergo keyboards, I decided to retain the fourth row in order to have a dedicated number row. This was primarily done to make it more suitable for gaming, since many games rely on a the number row for switching between different items. If I wasn't playing games very often, I would probably ditch the number row.
+Contrary to many newer smaller split ergo keyboards, I decided to retain the fourth row to have a dedicated number row. This was primarily done to make it more suitable for gaming, since many games rely on the number row for switching between different items. If I wasn't playing games regularly, I would probably ditch the number row.
 
-I've also decided to forego the common OLED screen, instead opting to have a dedicated piezo speaker on each half. I made this choice since based on my experience, the screen provides little value to a typist that normally doesn't look at their keyboard (not to mention that most screens tend to be far to small, nor do they function well with heavy tenting). They can of course be visually pleasing, but I prioritized a pragmatic design.
+I've also decided to forego the common OLED screen, instead opting to have a dedicated piezo speaker on each half. I made this choice since, based on my experience, the screen provides little value to a typist that normally doesn't look at their keyboard (not to mention that most screens tend to be far too small, nor do they function well with heavy tenting). They can however be visually pleasing, but my priority was a pragmatic design first and foremost.
 
-## Features
-
-A low-profile ergonomic split keyboard.
+I decided that I also needed a good tenting solution, which is why I added an inset at the bottom of the case where a ferrous metal plate can go, which in turn makes it MagSafe compatible. I considered other tenting solutions as well, but settled in the end on the MagSafe compatibility, since it combines versatility and simplicity. You aren't forced into using a tenting solution, and it can easily be adjusted based on your individual needs.
 
 ## License
 
